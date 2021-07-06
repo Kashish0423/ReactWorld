@@ -23,4 +23,27 @@ Features Of the application:
 - All the data was fetched using the [Breaking Bad Api](https://breakingbadapi.com/)
 
 Snapshots of the project 👇
+
+Responsive Navigation Bar
 <img src="Screenshots/Responsive_navbar.png" alt="Responsive Navbar">
+
+Footer
+<img src="Screenshots/Footer.png" alt="Footer">
+
+ToDoList Overview
+<img src="Screenshots/Note_guide.png" alt="Todo App">
+
+Update/Edit Note
+<img src="Screenshots/Update_note.png" alt="UpdateTodo">
+
+Crypto App Overview
+<img src="Screenshots/CryptoApp.png" alt="Crypto App">
+
+Crypto App Search
+<img src="Screenshots/CryptoSearch.png" alt="Crypto App Search">
+
+Breaking Bad Overview
+<img src="Screenshots/BreakingBad.png" alt="Breaking Bad App">
+
+Cards Hover Effect
+<img src="Screenshots/Hover_Effect.png" alt="Hover Effect">
