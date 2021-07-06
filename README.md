@@ -1,4 +1,4 @@
-# This is an ReactWorld App which is a ReactJS based Web Application to allow you get mixed experience of various applications .
+# This is an ReactWorld App that allows you get mixed experience of various applications .
 
 ### This is a ReactJS based web application
 
@@ -16,4 +16,11 @@ Features Of the application:
 - Delete and edit your notes with ease .
 - A crypto currency application to keep yourself updated with the latest currencies .
 - Use of green and red symbols to showcase how a currency is behaving on a given time
-- Real time updates using the [https://www.coingecko.com/en/api](CoinGecko API)
+- Real time updates using the [Coingecko Api](https://www.coingecko.com/en/api)
+
+- The app also showcases one of the famous shows of our time **Breaking Bad**
+- Here we can see all the famous characters of the show , with a special hovering effect on each item when we pass over it , to make the experience amazing
+- All the data was fetched using the [Breaking Bad Api](https://breakingbadapi.com/)
+
+Snapshots of the project 👇
+<img src="Screenshots/Responsive_navbar.png" alt="Responsive Navbar">
