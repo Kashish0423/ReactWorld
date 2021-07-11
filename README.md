@@ -1,4 +1,4 @@
-# This is an ReactWorld App that allows you get mixed experience of various applications .
+# This is a ReactWorld App that allows you get mixed experience of various applications .
 
 ### This is a ReactJS based web application
 
